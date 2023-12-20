@@ -18,7 +18,7 @@ int main()
 	//		std::cout<<"Value Less than 10\n";
 	//
 
-	if(x>0)
+	if(x>10)
 	{
 
 		std::cout<<"Value greater Than 10\n";
